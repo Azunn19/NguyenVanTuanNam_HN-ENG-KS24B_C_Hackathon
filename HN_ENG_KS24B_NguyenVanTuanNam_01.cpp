@@ -173,7 +173,7 @@ int main(){
 					printf("Mang dang trong\n");
 				}
 				else{
-					
+                     
 				}
 				break;
 			}
