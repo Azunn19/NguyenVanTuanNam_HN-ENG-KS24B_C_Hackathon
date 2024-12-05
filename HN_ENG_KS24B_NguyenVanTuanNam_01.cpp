@@ -173,9 +173,7 @@ int main(){
 					printf("Mang dang trong\n");
 				}
 				else{
-					for (int i = 0;i < n;i++){
-						
-					}
+					
 				}
 				break;
 			}
